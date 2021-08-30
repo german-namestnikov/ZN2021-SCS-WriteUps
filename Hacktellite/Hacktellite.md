@@ -7,6 +7,8 @@ The attacker has found a suspicious image on one of the hosts. Can it be used fo
 
 After you get the flag, use another one of your findings to access SSH: ssh -p41222 johan@verymoderndev.com
 
+[WAV-файл](Hacktellite.wav)
+
 ## Решение
 Задача сводилась к прямому декодированию звукового файла, содержащего в себе изображение, передаваемое в формате SSTV. На изображении можно было найти флаг, а также пароль, который можно было использовать в дальнейших активностях.
 
