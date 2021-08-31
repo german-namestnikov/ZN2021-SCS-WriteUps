@@ -18,7 +18,7 @@
 По первому же запросу в гугле легко находится [RCE exploit](https://www.exploit-db.com/exploits/49705) для данной версии.
 Если запустить данный эксплоит в лоб - сплоит не отработает. Из подсказок в веб-интерфейсе IDE можно сделать вывод о том, что bash, захардкоженный в эксплоит, просто отсутствует в системе. Меняем bash на sh и легко получаем флаг.
 
-[![InsecureDE exploit](/InsecureDE/exploit.png "InsecureDE exploit")](https://github.com/z0ok/ZN2021-SCS-WriteUps/blob/z0ok_parts/InsecureDE/exploit.png)  
+![![InsecureDE exploit](/InsecureDE/exploit.png "InsecureDE exploit")](/InsecureDE/exploit.png)  
 
 
 Flag: <code> SCS_ZN2021{Alw4ys_P4tch_y0ur_1DE!} </code>
