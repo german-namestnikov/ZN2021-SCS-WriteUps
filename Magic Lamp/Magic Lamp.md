@@ -12,7 +12,7 @@
 > Visit johan lab at verymoderndev.com:41222
 > Internal address: smart-lamp.vmd.inc:40230  
 
-Так же был приложен ![файл с логами](/Magic%20Lamp/task_logs.txt) взаимодействия клиента с сервером.
+Так же был приложен [файл с логами](/Magic%20Lamp/task_logs.txt) взаимодействия клиента с сервером.
 
 # Solution
 
