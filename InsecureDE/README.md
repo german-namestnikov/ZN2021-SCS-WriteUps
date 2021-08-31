@@ -1,8 +1,9 @@
-# About  
+# InsecureDE
+## About  
 
 Задание InsecureDE - одно из стартовых в нашем соревновании. Несложный веб, который по результату решения давал доступ к виртуальной машине Alice.
 
-# Description
+## Description
 
 > Web IDE is a usefull and easy-to-setup tool for developers. Every modern company should use it. Or not?
 >
@@ -11,7 +12,7 @@
 > After you get the flag, use another one of your findings to access SSH: ssh -p40122 alice@verymoderndev.com
 
 
-# Solution
+## Solution
 
 По указанному даресу игроков ждала платформа облачной IDE [Codiad](http://codiad.com/). 
 
