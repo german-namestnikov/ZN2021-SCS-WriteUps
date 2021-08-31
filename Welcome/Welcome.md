@@ -11,7 +11,7 @@
 
 # Solution
 
-Первая часть флага находится прямо в писании задания:  
+Первая часть флага (которая по факту является четвертой) находится прямо в писании задания:  
 
 [![Flag part 4](/Welcome/part4.png "Welcome, Part 4")](https://github.com/z0ok/ZN2021-SCS-WriteUps/blob/z0ok_parts/Welcome/part4.png)  
 
