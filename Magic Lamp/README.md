@@ -1,9 +1,11 @@
-# About
+# Magic Lamp
+
+## About
 
 Данное задание было одним из завершающих в цепочке лаб и осталось одним из нерешенных участниками.
 Поэтому давайте остановимся на нем поподробнее. Задания Magic Lamp и Magic Socket - имитация IOT, умных лампы и розетки.
 
-# Description
+## Description
 
 > Important! You will need initial access to Johan lab machine to solve this task!  
 >
@@ -14,7 +16,7 @@
 
 Так же был приложен [файл с логами](/Magic%20Lamp/task_logs.txt) взаимодействия клиента с сервером.
 
-# Solution
+## Solution
 
 Для начала получим всю возможную информацию из лог-файла. Лог содержит 2 части:  
 1. Запись работы клиента
