@@ -1,11 +1,11 @@
 # Hacktellite
 
 ## Задача
-Important! You will need initial access to Alice lab machine to solve this task!
-
-The attacker has found a suspicious image on one of the hosts. Can it be used for attack?
-
-After you get the flag, use another one of your findings to access SSH: ssh -p41222 johan@verymoderndev.com
+> Important! You will need initial access to Alice lab machine to solve this task!
+> 
+> The attacker has found a suspicious image on one of the hosts. Can it be used for attack?
+> 
+> After you get the flag, use another one of your findings to access SSH: ssh -p41222 johan@verymoderndev.com
 
 [WAV-файл](Hacktellite.wav)
 
