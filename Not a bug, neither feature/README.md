@@ -1,10 +1,11 @@
 # Not a bug, neither feature
 
-## Задача
-Important! You will need initial access to Johan lab machine to solve this task!  
-
-Somewhere in docs you found a strange login. Lets try break some unknown service.
-http://verymoderndev.com : 43010,43011,43012
+## Описание
+> Important! You will need initial access to Johan lab machine to solve this task!  
+> 
+> Somewhere in docs you found a strange login. Lets try break some unknown service.
+> 
+> http://verymoderndev.com : 43010,43011,43012
 
 ## Решение
 Задача требовала от участника провести эксплуатацию интересного поведения сервиса Patroni в целях получения RCE. Для успешного решения нужно было воспользоваться логином, полученным при решении предыдущих задач, а также сбрутить или угадать пароль для доступа к Patroni HTTP API.
