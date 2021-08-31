@@ -40,4 +40,4 @@ Bingo! Как мы и предположили, команда 100 отвеча�
 
 ![![flag.png](/Magic%20Socket/flag.png, Get flag")](/Magic%20Socket/flag.png)  
 
-Flag: 
+Flag: SCS_ZN2021{Unl0ck_sh0uld_b3_phys1cal1}
