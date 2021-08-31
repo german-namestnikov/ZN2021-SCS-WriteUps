@@ -1,0 +1,137 @@
+[*] Interactive mode
+[?] Choose device:
+-> 1 - Lamp1
+-> 2 - Lamp2
+-> 3 - Lamp3
+0/exit - Exit
+> 1
+--> 1 - Power on
+--> 2 - Power off
+--> 3 - Color white
+--> 4 - Color yellow
+--> 5 - Color red
+--> 6 - Color blue
+0/exit - Exit
+> 1
+[?] Choose device:
+-> 1 - Lamp1
+-> 2 - Lamp2
+-> 3 - Lamp3
+0/exit - Exit
+> 2
+--> 1 - Power on
+--> 2 - Power off
+--> 3 - Color white
+--> 4 - Color yellow
+--> 5 - Color red
+--> 6 - Color blue
+0/exit - Exit
+> 1
+[?] Choose device:
+-> 1 - Lamp1
+-> 2 - Lamp2
+-> 3 - Lamp3
+0/exit - Exit
+> 1
+--> 1 - Power on
+--> 2 - Power off
+--> 3 - Color white
+--> 4 - Color yellow
+--> 5 - Color red
+--> 6 - Color blue
+0/exit - Exit
+> 4
+[?] Choose device:
+-> 1 - Lamp1
+-> 2 - Lamp2
+-> 3 - Lamp3
+0/exit - Exit
+> 2
+--> 1 - Power on
+--> 2 - Power off
+--> 3 - Color white
+--> 4 - Color yellow
+--> 5 - Color red
+--> 6 - Color blue
+0/exit - Exit
+> 5
+[?] Choose device:
+-> 1 - Lamp1
+-> 2 - Lamp2
+-> 3 - Lamp3
+0/exit - Exit
+> 1
+--> 1 - Power on
+--> 2 - Power off
+--> 3 - Color white
+--> 4 - Color yellow
+--> 5 - Color red
+--> 6 - Color blue
+0/exit - Exit
+> 3
+[?] Choose device:
+-> 1 - Lamp1
+-> 2 - Lamp2
+-> 3 - Lamp3
+0/exit - Exit
+> 2
+--> 1 - Power on
+--> 2 - Power off
+--> 3 - Color white
+--> 4 - Color yellow
+--> 5 - Color red
+--> 6 - Color blue
+0/exit - Exit
+> 3
+[?] Choose device:
+-> 1 - Lamp1
+-> 2 - Lamp2
+-> 3 - Lamp3
+0/exit - Exit
+> 1
+--> 1 - Power on
+--> 2 - Power off
+--> 3 - Color white
+--> 4 - Color yellow
+--> 5 - Color red
+--> 6 - Color blue
+0/exit - Exit
+> 2
+[?] Choose device:
+-> 1 - Lamp1
+-> 2 - Lamp2
+-> 3 - Lamp3
+0/exit - Exit
+> 2
+--> 1 - Power on
+--> 2 - Power off
+--> 3 - Color white
+--> 4 - Color yellow
+--> 5 - Color red
+--> 6 - Color blue
+0/exit - Exit
+> 2
+[?] Choose device:
+-> 1 - Lamp1
+-> 2 - Lamp2
+-> 3 - Lamp3
+0/exit - Exit
+> 0
+
+
+>94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e156390001001000000010dfab83ccc7dd14ebed018a8e3e95aba48e18e1a4e86ecde2d8ae0a2a7effd
+<94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e156390001001000001bda7968ca91e9821a4b393245c82e840c2160e58c79891a02411ceb1cc9b6426
+>94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e156390002001000000c1db581b0a08545e12a6c59f9cb3ef524155d99030ee449523f8ea8d68d00ab5
+<94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e15639000200100000173321652fbbd63c0f8d140bf93ad417db9ef2fa9f656fc9365b7b94c167f649f
+>94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e156390001011000001772aab6b60e0054f7a3f6ac0a233827931ae3afa08ab245c648257ce01acbab2
+<94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e1563900010110000029e63150c4e1eefcb9167de0cb4afcc0cf7622cc331dc2628f3dddbee0b5b0f75
+>94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e1563900020210000010a39aa5a75804ac6c57f52aa5eab44f27b4ac564cb1481703a1aa54a0ba29491
+<94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e156390002021000002fb51599e0c67b25f330aa0b361e7542d801bbdff973cb3ce228bf89ae5174120
+>94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e15639000104100000234a14af780909c79b4715a9c08f867ef0fc3c7ef6c669a1e1e122b6b2c470f49
+<94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e15639000101100000323c396e5ea35d5c1d0d42b28eea55e052530c7705c2130ee151163df3d0611e5
+>94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e1563900020410000028cbb5e188aeeae49aeb333850affdf52aac35f8fea8efb91854bfa5eab5f16cd
+<94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e156390002021000003b20fa7e22c213cf219a0aa63bc0bfbb9cf1fc7e836db3a5db99a9a84468c0bfb
+>94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e156390001000000003c43f54a9168512c7b5acd8464772db285074d581bb2a8b6ee4175f3e0adbba55
+<94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e156390001000000004f87f0bf804a9ce993a773b1833d5c478b9395f465dc33781328262974cb55bcb
+>94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e156390002000000003158749a8ee48380a76149bbbec4845b70de848edf97e141e7c81a630dbb00ec3
+<94d39d3ec79c7dd4f75074773aa5af0848e281ba9b73b5cc0b58dcf581e156390002000000004eb0fc0997b78c6aab8bb9eda354f69ceb29ce73124cdea938ac06bb78d950dfe
