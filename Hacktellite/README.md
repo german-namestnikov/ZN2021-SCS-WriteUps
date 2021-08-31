@@ -1,6 +1,6 @@
 # Hacktellite
 
-## Задача
+## Описание
 > Important! You will need initial access to Alice lab machine to solve this task!
 > 
 > The attacker has found a suspicious image on one of the hosts. Can it be used for attack?
