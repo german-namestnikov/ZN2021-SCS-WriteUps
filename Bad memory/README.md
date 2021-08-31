@@ -6,16 +6,16 @@
 > In his home directory you will find bad.img, which is the image file of that remote file system where Johan buried his treasures but unluckily lost the exact route leading to his secrets. 
 > Help him recover his secrets! Note: some signatures may be partially broken.
 > 
-> Hint #1: Hidden archive has been split into two parts. Both can be found by analyzing the file system structure. Also some plaintext parts inside this image refer to the hiding techniques used in the task.
+> Hint #1: Hidden archive has been split into two parts. Both can be found by analyzing the file system structure. Also some plaintext parts inside this image refer to the hiding techniques used in the task.  
 > Hint #2: Find the mentioned paper, keep the task title in mind, use one of the techniques. As for 2nd part, it should probably be already found :)
 
 ## Решение
 
-Входными данными для этого задания является img-файл, содержащий образ NTFS-системы. Из описания задания ясно, что необходимо восстановить какие-то данные.
+В качестве входных данных для этого задания нам даётся [img-файл](badMemory.img), содержащий образ NTFS-системы. Из описания задания ясно, что необходимо восстановить какие-то данные.
 
 Смонтировав img-файл, можно увидеть, что в этом образе есть несколько директорий с текстовыми файлами, а также readme.txt со следующим содержимым:
 
-> Password for the lost archive should be 5up3r5eCURE!
+> Password for the lost archive should be 5up3r5eCURE!  
 > Also check out the "Data hiding in the NTFS file system" paper, it's pretty cool
 
 Отсюда делаем следующие выводы: 
